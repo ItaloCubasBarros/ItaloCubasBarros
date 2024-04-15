@@ -1,16 +1,13 @@
-### Hi there 👋
+## **Olá**, sou Italo Cubas Barros 👋
+📖 Estudo C# e JavaScript
+⚡ Estou cursando sistemas de informação e pretendo trabalhar com desenvolvimento
 
-<!--
-**ItaloCubasBarros/ItaloCubasBarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Linguagens que Estudo:
+[![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://github.com/your_username)
+[![JavaS(https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/your_username)
 
-Here are some ideas to get you started:
+### Most Used Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloCubasBarros&layout=compact)](https://github.com/ItaloCubasBarros)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Meu LinkedIn:
+[![LinkedIn](https://img.shields.io/badge/-Italo%20Cubas%20Barros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italo-cubas-barros-a74436278/)](https://www.linkedin.com/in/italo-cubas-barros-a74436278/)
