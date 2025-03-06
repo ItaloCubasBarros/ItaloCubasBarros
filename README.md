@@ -6,6 +6,8 @@
 ### Linguagens que Estudo:
 [![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://github.com/your_username)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://github.com/your_username)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/your_username)
+
 
 ### Most Used Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloCubasBarros&layout=compact)](https://github.com/ItaloCubasBarros)
