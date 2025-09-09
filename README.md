@@ -1,7 +1,7 @@
 ## **Olá**, sou Italo Cubas Barros 👋
 📖 Estudo C# e JavaScript
 👨‍🎓Técnologo em ADS(Análise e Desenvolvimento de Sistemas) pelo Sesi Escola Cuiabá.
-⚡Cursando sistemas de informação(1° Semestre - UNIVAG)
+⚡Cursando sistemas de informação(4° Semestre - UNIVAG)
 
 ### Linguagens que Estudo:
 [![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](https://github.com/your_username)
